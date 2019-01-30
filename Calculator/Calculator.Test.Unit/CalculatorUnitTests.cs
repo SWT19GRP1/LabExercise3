@@ -88,5 +88,7 @@ namespace Calculator.Test.Unit
             Assert.That(result, Is.EqualTo(0.707107).Within(0.0000005));
         }
 
+
+
     }
 }

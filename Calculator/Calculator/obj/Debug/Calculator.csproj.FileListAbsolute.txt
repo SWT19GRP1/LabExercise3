@@ -1,0 +1,2 @@
+C:\Users\simon\Source\Repos\SWT19GRP1\LabExercise3\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\simon\Source\Repos\SWT19GRP1\LabExercise3\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
