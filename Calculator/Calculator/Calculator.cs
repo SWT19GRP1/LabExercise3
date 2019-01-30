@@ -30,6 +30,10 @@ namespace Calculator
             return Math.Pow(a, b);
         }
 
+        public void clear()
+        {
+            _accumulator = 0;
+        }
 
 
     }
